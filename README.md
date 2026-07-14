@@ -1,2 +1,2 @@
 # Farmer-solution
-Discover disease,pest,weed and possible solution 
+Identify disease,pest,weed and solution at finger tip/e solution 
